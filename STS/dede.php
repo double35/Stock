@@ -1,0 +1,1 @@
+<?php echo strrev("12345"); // Çıktısı abahreM olacaktır ?>
